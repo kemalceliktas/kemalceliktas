@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kemal Celiktas</h1>
 <h3 align="center">Mobile Developer (Flutter)</h3>
 
-- 👨‍💻 All of my projects are available at [https://kemalaliceliktasportfolio.web.app](https://kemalaliceliktasportfolio.web.app)
+- 👨‍💻 All of my projects are available at [https://kemalceliktas.github.io/](https://kemalceliktas.github.io/)
 
 - 💬 Ask me about **react,JS,CSS,Dart,Flutter**
 
 - 📫 How to reach me **kemalceliktas1@icloud.com**
 
-- 📄 Know about my experiences [https://kemalaliceliktasportfolio.web.app](https://kemalaliceliktasportfolio.web.app)
+- 📄 Know about my experiences [https://kemalceliktas.github.io/](https://kemalceliktas.github.io/)
 
 - ⚡ Fun fact **I Think there is a no error...**
 
